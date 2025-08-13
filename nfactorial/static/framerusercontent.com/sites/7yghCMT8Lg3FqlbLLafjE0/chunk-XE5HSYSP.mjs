@@ -1,0 +1,2 @@
+import{$a as r}from"./chunk-46A2A62J.mjs";r.loadWebFontsFromSelectors([]);var n=[],s=[".framer-cwE9q .framer-styles-preset-1y6hx4h:not(.rich-text-wrapper), .framer-cwE9q .framer-styles-preset-1y6hx4h.rich-text-wrapper a { --framer-link-current-text-decoration: none; --framer-link-text-color: rgba(255, 255, 255, 0.6); --framer-link-text-decoration: none; }"],c="framer-cwE9q";export{n as a,s as b,c};
+//# sourceMappingURL=chunk-XE5HSYSP.mjs.map
