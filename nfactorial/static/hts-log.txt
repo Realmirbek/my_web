@@ -1,118 +1,236 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Aug 2025 15:11:47 at https://www.nfactorial.school/ +*.css +*.js +*.mjs +*.json +*.svg +*.png +*.jpg +*.jpeg +*.webp +*.ico +*.woff +*.woff2 +*.ttf +https://framerusercontent.com/* +https://edit.framer.com/*
-(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nfactorial.school/ -O1 "C:\My Web Sites\nfactorial" +*.css +*.js +*.mjs +*.json +*.svg +*.png +*.jpg +*.jpeg +*.webp +*.ico +*.woff +*.woff2 +*.ttf +https://framerusercontent.com/* +https://edit.framer.com/* )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-15:12:42	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.nfactorial.school/)
-15:12:43	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.nfactorial.school/)
-15:15:10	Warning: 	Note: due to https://framerusercontent.com remote robots.txt rules, links beginning with these path will be forbidden: /*.pdf$, /*.PDF$ (see in the options to disable this)
-15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐ¾Ð·Ð´Ð°Ð»-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ-ÐºÐ¾ÑÐ¾ÑÐ¾Ðµ-Ð·Ð°ÑÐ°Ð±Ð¾ÑÐ°Ð»Ð¾-Ð±Ð¾Ð»ÐµÐµ-1000-Ð·Ð°-10-Ð½ÐµÐ´ÐµÐ»Ñ (from https://www.nfactorial.school/blog)
-15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿Ð¾Ð¼Ð¾Ð³Ð°ÐµÑ-Ð¸Ð¸-ÑÐ°Ð±Ð¾ÑÐ°ÑÑ-Ð½Ð°-ÑÐºÐ¾ÑÐ¾ÑÑÐ¸-ÑÐ²ÐµÑÐ° (from https://www.nfactorial.school/blog)
-15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐ½Ð¸Ð¼Ð°Ð»ÑÑ-Ð²-ÑÐ¸Ð»ÑÐ¼Ðµ-Ñ-Ð´Ð¶ÐµÐºÐ¸-ÑÐ°Ð½Ð¾Ð¼ (from https://www.nfactorial.school/blog)
-15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð²ÑÐ¿ÑÑÐºÐ½Ð¸ÐºÐ°-nfactorial-incubator-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿Ð¾Ð¿Ð°Ð»-Ð²-ÑÐ¿Ð¸ÑÐ¾Ðº-forbes-30-Ð´Ð¾-30-Ð²-2025-Ð³Ð¾Ð´Ñ (from https://www.nfactorial.school/blog)
-15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐµÐ´Ð¸Ð½ÑÑÐ²ÐµÐ½Ð½Ð¾Ð³Ð¾-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð²ÑÐ¸Ð³ÑÐ°Ð»-Ð·Ð¾Ð»Ð¾ÑÐ¾-Ð½Ð°-Ð¼ÐµÐ¶Ð´ÑÐ½Ð°ÑÐ¾Ð´Ð½Ð¾Ð¹-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ðµ-Ð¿Ð¾-Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ (from https://www.nfactorial.school/blog)
-15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÑÐºÐ¾Ð»ÑÐ½Ð¸ÐºÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð²ÑÐ¸Ð³ÑÐ°Ð»-Ð¿ÐµÑÐ²ÑÑ-ÑÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ°Ð½ÑÐºÑÑ-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ñ-Ð¿Ð¾-Ð¸Ð¸-Ð¸-Ð¿Ð¾Ð»ÑÑÐ¸Ð»-Ð³ÑÐ°Ð½Ñ-Ð²-ÐºÐ°Ð½Ð°Ð´ÑÐºÐ¸Ð¹-ÑÐ¾Ð¿-Ð²ÑÐ· (from https://www.nfactorial.school/blog)
-15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/nfactorial-research-Ð°Ð½Ð°Ð»Ð¸Ð·-Ð¸-Ð¿Ð¾Ð»ÐµÐ·Ð½ÑÐµ-Ð¸Ð½ÑÐ°Ð¹ÑÑ-Ð´Ð»Ñ-Ð²Ð°ÑÐµÐ³Ð¾-Ð±Ð¸Ð·Ð½ÐµÑÐ°-Ð¸Ð·-10-000-ÑÐ°Ð¹Ð»Ð¾Ð² (from https://www.nfactorial.school/blog)
-15:20:48	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-ÑÐ¾ÑÑÐµÑÐ¸-Ð²Ð»Ð¸ÑÑÑ-Ð½Ð°-Ð½Ð°ÑÐ¸-ÑÐ¼Ð¾ÑÐ¸Ð¸ (from https://www.nfactorial.school/blog)
-15:20:48	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ°ÑÐ½Ð°-Ð½Ð¾Ð²Ð¾Ðµ-Ð¼ÐµÑÑÐ¾-Ð´Ð»Ñ-Ð±Ð¸Ð·Ð½ÐµÑ-Ð²ÑÑÑÐµÑ (from https://www.nfactorial.school/blog)
-15:20:48	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð¸ÑÐºÑÑÑÑÐ²ÐµÐ½Ð½ÑÐ¹-Ð¸Ð½ÑÐµÐ»Ð»ÐµÐºÑ-Ð¼ÐµÐ½ÑÐµÑ-Ð¶Ð¸Ð·Ð½Ñ-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¾Ð² (from https://www.nfactorial.school/blog)
-15:20:48	Error: 	"Not Found" (404) at link https://i.ytimg.com/ (from https://www.nfactorial.school/incubator)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÑÐ°-Ð¸Ð·-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½Ð°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿Ð¾Ð¼Ð¾Ð³Ð°ÐµÑ-Ð·Ð°Ð³ÑÑÐ¶Ð°ÑÑÑÑ-Ð¼Ð¸Ð»Ð»Ð¸Ð¾Ð½Ð°Ð¼-ÑÐ°Ð¹ÑÐ¾Ð²-Ð¿Ð¾-Ð²ÑÐµÐ¼Ñ-Ð¼Ð¸ÑÑ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð»ÑÑÑÐµÐ³Ð¾-Ð¸Ð½Ð´Ð¸-Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÑÐ°-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½Ð° (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-19-Ð»ÐµÑÐ½ÐµÐ³Ð¾-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÑÐ¸Ð²Ð»ÐµÐº-250-ÑÑÑÑÑ-Ð¸Ð½Ð²ÐµÑÑÐ¸ÑÐ¸Ð¹ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð½Ð°Ð¿Ð¸ÑÐ°Ð»-ÑÑÐ°ÑÑÑ-Ñ-Ð±ÑÐ²ÑÐ¸Ð¼-Ð´Ð¸ÑÐµÐºÑÐ¾ÑÐ¾Ð¼-ai-Ð²-apple (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÑÐºÐ¾Ð»ÑÐ½Ð¸ÐºÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿Ð¾Ð»ÑÑÐ¸Ð»-1-Ð¼Ð»Ð½-Ð¸Ð½Ð²ÐµÑÑÐ¸ÑÐ¸Ð¹-Ð²ÑÐµÐ³Ð¾-Ð·Ð°-Ð¿ÑÑÑ-Ð´Ð½ÐµÐ¹-Ð²-Ð»Ð¾Ð½Ð´Ð¾Ð½Ðµ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð¿ÐµÑÐ²Ð¾Ð³Ð¾-ÐºÐ°Ð·Ð°ÑÐ°-Ð²-caltech-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð²ÑÐ¸Ð³ÑÐ°Ð»-Ð¿ÐµÑÐ²ÑÑ-Ð·Ð¾Ð»Ð¾ÑÑÑ-Ð¼ÐµÐ´Ð°Ð»Ñ-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½Ð°-Ð½Ð°-Ð¼ÐµÐ¶Ð´ÑÐ½Ð°ÑÐ¾Ð´Ð½Ð¾Ð¹-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ðµ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐ¾Ð·Ð´Ð°Ð»-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ-Ð´Ð»Ñ-ÐºÐ°ÑÑÐ¾ÑÐ½Ð¾Ð¹-Ð¸Ð³ÑÑ-Ð±ÐµÐ»ÐºÐ° (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð·Ð²ÐµÐ·Ð´Ð½ÑÑ-Ð±ÑÐ°ÑÑÐµÐ²-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¾Ð²-ÐºÐ¾ÑÐ¾ÑÑÐµ-Ð¿Ð¾ÐºÐ¾ÑÐ¸Ð»Ð¸-big-tech (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð»ÐµÐ³ÐµÐ½Ð´Ñ-ÐºÐ°Ð·Ð°ÑÑÐºÐ¾Ð¹-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ð½Ð¾Ð¹-Ð¼Ð°ÑÐµÐ¼Ð°ÑÐ¸ÐºÐ¸-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐ°Ð±Ð¾ÑÐ°Ð»-Ð½Ð°Ð´-ÑÐ°Ð·Ð²Ð¸ÑÐ¸ÐµÐ¼-Ð¸ÑÐºÑÑÑÑÐ²ÐµÐ½Ð½Ð¾Ð³Ð¾-Ð¸Ð½ÑÐµÐ»Ð»ÐµÐºÑÐ°-ÐµÑÐµ-Ð·Ð°-5-Ð»ÐµÑ-Ð´Ð¾-Ð¿Ð¾ÑÐ²Ð»ÐµÐ½Ð¸Ñ-chatgpt-Ð¸-gemini (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐºÑ-ÐºÐ¾ÑÐ¾ÑÐ°Ñ-ÑÐ¾Ð·Ð´Ð°Ð»Ð°-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ-ÐºÐ¾ÑÐ¾ÑÐ¾Ðµ-Ð½Ð°Ð±ÑÐ°Ð»Ð¾-250-ÑÑÑÑÑ-Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¹ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÐµÑÐ²ÑÐ¼-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐ°Ð»-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ-Ð³Ð´Ðµ-ÑÐ¾Ð±ÑÐ°Ð»-ÑÐµÐ¼ÐµÐ¹Ð½Ð¾Ðµ-ÑÐµÐ¶ÑÑÐµ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÑÐ¾Ð´Ð°Ð»-ÑÐ²Ð¾Ð¹-ÑÑÐ°ÑÑÐ°Ð¿-Ð¸ÑÐ¿Ð°Ð½ÑÐºÐ¾Ð¼Ñ-Ð¼ÐµÐ´Ð¸Ð°ÑÐ¾Ð»Ð´Ð¸Ð½Ð³Ñ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐºÑ-ÐºÐ¾ÑÐ¾ÑÐ°Ñ-ÑÑÐ°Ð»Ð°-Ð²ÐµÐ½ÑÑÑÐ½ÑÐ¼-ÐºÐ°Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑÐ¾Ð¼-Ð¿Ð¾ÑÐ»Ðµ-google (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÑÐ°-ÑÑÐ°ÑÑÐ°Ð¿-ÐºÐ¾ÑÐ¾ÑÐ¾Ð³Ð¾-Ð¿Ð¾Ð¿Ð°Ð»-Ð½Ð°-ycombinator-ÑÐ°Ð¼ÑÐ¹-Ð¿ÑÐµÑÑÐ¸Ð¶Ð½ÑÐ¹-Ð±Ð¸Ð·Ð½ÐµÑ-Ð°ÐºÑÐµÐ»ÐµÑÐ°ÑÐ¾Ñ-Ð¼Ð¸ÑÐ° (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°Ð»Ð¸-ÑÑÐ¾-ÐºÐ°Ð·Ð°Ñ-Ð¿ÑÐ¸Ð´ÑÐ¼Ð°Ð»-ÑÑÐ½ÐºÑÐ¸Ñ-Ð½Ð°-iphone-Ð±Ð»Ð°Ð³Ð¾Ð´Ð°ÑÑ-ÐºÐ¾ÑÐ¾ÑÐ¾Ð¹-ÑÐµÐ¿ÐµÑÑ-Ð½Ðµ-ÑÐºÐ°ÑÐ¸Ð²Ð°ÐµÑ-Ð²-Ð¼Ð°ÑÐ¸Ð½Ðµ-ÐºÐ¾Ð³Ð´Ð°-ÑÐ¼Ð¾ÑÑÐ¸ÑÑ-Ð²-ÑÐºÑÐ°Ð½ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÑÐ¸Ð»ÑÑ-Ð²Ð¼ÐµÑÑÐµ-Ñ-Ð¸Ð»Ð¾Ð½Ð¾Ð¼-Ð¼Ð°ÑÐºÐ¾Ð¼ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð·Ð½Ð°ÐºÐ¾Ð¼ÑÑÐµÑÑ-ÑÑÐ¾-Ð°Ð¼Ð°Ð½-Ð¸-Ð¿ÐµÑÐ½ÐµÑÐ°Ð½-ÑÑÐµÐ¼ÑÑÐ°ÑÐ¾Ð²Ñ-Ð·Ð²ÐµÐ·Ð´Ð½ÑÐµ-Ð±ÑÐ°ÑÑÑ-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¸ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ð·Ð°Ñ-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐµÑÐ¸Ð»-Ð½ÐµÑÐµÑÐµÐ½Ð½ÑÑ-Ð·Ð°Ð´Ð°ÑÑ-Ð¿Ð¾-Ð¼Ð°ÑÐµÐ¼Ð°ÑÐ¸ÐºÐµ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÑÐ°-ÐºÐ¾ÑÐ¾ÑÐ¾Ð³Ð¾-Ð¶ÑÑÐ½Ð°Ð»-nature-Ð½Ð°Ð·Ð²Ð°Ð»-Ð»Ð¸Ð´ÐµÑÐ¾Ð¼-Ð²-Ð¾Ð±Ð»Ð°ÑÑÐ¸-ÐºÐ»Ð¾Ð½Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð¿ÐµÑÐ²Ð¾Ð³Ð¾-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð·Ð°ÑÐ¸ÑÐ¸Ð»-phd-Ð²-Ð³Ð°ÑÐ²Ð°ÑÐ´Ðµ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð»ÐµÐ³ÐµÐ½Ð´Ð°-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÑÐºÐ¾Ð¹-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ð½Ð¾Ð¹-Ð¼Ð°ÑÐµÐ¼Ð°ÑÐ¸ÐºÐ¸ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÐµÑ-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÑÐ¸Ð´ÑÐ¼Ð°Ð»-Ð½Ð¾Ð²ÑÐ¹-Ð²Ð¸Ð´-ÑÐ¸ÑÑÐ¾Ð²Ð°Ð½Ð¸Ñ-copy (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÐµÑ-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÑÐ¸Ð´ÑÐ¼Ð°Ð»-Ð½Ð¾Ð²ÑÐ¹-Ð²Ð¸Ð´-ÑÐ¸ÑÑÐ¾Ð²Ð°Ð½Ð¸Ñ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÐµÑÐ²ÑÐ¼-ÑÑÐ°Ð»-Ð¿ÑÐ¾ÑÐµÑÑÐ¾ÑÐ¾Ð¼-Ð¿Ð¾-ÐºÐ¾Ð¼Ð¿ÑÑÑÐµÑÐ½ÑÐ¼-Ð½Ð°ÑÐºÐ°Ð¼-Ð²-ÑÐ¾Ð¿-100-Ð²ÑÐ·Ðµ-ÑÑÐ° (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÐºÑ-ÐºÐ¾ÑÐ¾ÑÐ°Ñ-Ð²Ð·Ð»Ð¾Ð¼Ð°Ð»Ð°-Ð²ÑÑ-Ð½Ð°ÑÑÐ½ÑÑ-Ð¸Ð½Ð´ÑÑÑÑÐ¸Ñ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿ÐµÑÐ²Ð°Ñ-ÐºÐ°Ð·Ð°ÑÐºÐ°-Ð¿Ð¾Ð»ÑÑÐ¸Ð²ÑÐ°Ñ-ÑÑÐµÐ¿ÐµÐ½Ñ-Ð´Ð¾ÐºÑÐ¾ÑÐ°-Ð²-mit (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¼Ð¾Ð¼ÐµÐ½Ñ-Ð»Ð¸-ÑÐ¸Ð´Ð¾Ð»Ð° (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°Ð½ÑÐ¸ÑÐ¿Ð¸ÑÐ¾Ðº-ÑÐ°Ð±Ð¾ÑÐ¸Ñ-Ð¿ÑÐ¸Ð²ÑÑÐµÐº (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¸Ð¸-Ð²-Ð¼ÐµÐ´Ð¸ÑÐ¸Ð½Ðµ-Ð¿Ð¾Ð´-Ð³Ð¾ÑÑÐ´Ð°ÑÑÑÐ²ÐµÐ½Ð½ÑÐ¹-ÐºÐ¾Ð½ÑÑÐ¾Ð»Ñ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/10-Ð´ÐµÐ½Ñ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-ÑÐ¸Ð½Ð°Ð½ÑÐ¾Ð²ÑÐµ-Ð¸ÑÐ¾Ð³Ð¸-2024-Ð³Ð¾Ð´Ð° (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/9-Ð´ÐµÐ½Ñ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-Ð²Ð¸ÐºÑÐ¾ÑÐ¸Ð½Ð°-Ð¿Ð¾-Ð¿Ð¾Ð´ÐºÐ°ÑÑÑ-acquired (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/8-Ð´ÐµÐ½Ñ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-ÑÐµÐ·ÑÐ»ÑÑÐ°ÑÑ-Ð°Ð½Ð°Ð»Ð¸Ð·Ð°-5023-ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¹-Ð²ÑÐ¿ÑÑÐºÐ½Ð¸ÐºÐ¾Ð²-y-combinator (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐµÐ´ÑÐ¼Ð¾Ð¹-Ð´ÐµÐ½Ñ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-ÑÐ¸Ð½Ð°Ð»Ð¸ÑÑÑ-icpc-Ð¸-ÑÑÐ°ÑÑÐ½Ð¸ÐºÐ¸-ioi-ÑÐ°Ð·Ð½ÑÑ-Ð»ÐµÑ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð´ÐµÐ½Ñ-6-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-ÑÐ¸Ð½Ð°Ð½ÑÐ¾Ð²ÑÐ¹-Ð°Ð½Ð°Ð»Ð¸ÑÐ¸Ðº (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/nfactorial-ai-Ð¿Ð¾ÑÑÑÐ¾Ð»Ð¸Ð¾-ÑÐ¾Ð¿Ð¾Ð²ÑÑ-vc-ÑÐ¾Ð½Ð´Ð¾Ð²-ÐºÑÐµÐ¼Ð½Ð¸ÐµÐ²Ð¾Ð¹-Ð´Ð¾Ð»Ð¸Ð½Ñ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/nfactorial-ai-Ð¿ÑÐ¾Ð°Ð½Ð°Ð»Ð¸Ð·Ð¸ÑÐ¾Ð²Ð°Ð»Ð¸-15-000-Ð¿ÑÐ¾ÑÐ¸Ð»ÐµÐ¹-linkedin (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð·Ð¾Ð»Ð¾ÑÑÐµ-ÑÐ¸ÑÐ°ÑÑ-Ð¸Ð·-Ð²Ð°ÑÐ¸Ñ-Ð»ÑÐ±Ð¸Ð¼ÑÑ-youtube-Ð¿Ð¾Ð´ÐºÐ°ÑÑÐ¾Ð² (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶Ð°ÐµÐ¼-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶-Ð¾Ñ-nfactorial-ai (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿ÐµÑÐµÐ½ÐºÐ°-Ð°Ð½Ð¸Ð¼Ð°ÑÑÐ¾Ð½Ð¸ÐºÐ¾Ð²-ÑÐ¿ÐµÑÐ° (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²ÑÑÑÐµÑÐ°Ð¹ÑÐµ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶-Ð¾Ñ-nfactorial-ai (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾ÑÑÑÐ¿Ð¸ÑÐµ-Ð²-Ð²ÑÐ·-ÑÐ²Ð¾ÐµÐ¹-Ð¼ÐµÑÑÑ-Ð²Ð¼ÐµÑÑÐµ-Ñ-nfactorial-admissions (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ¾Ð±Ð¾ÑÑ-Ð¾ÑÐ¸ÑÐ¸Ð°Ð½ÑÑ-Ð´Ð°ÑÑÑ-Ð½ÐµÐ·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑÑ-ÑÐ²Ð¾Ð¸Ð¼-Ð¿Ð¸Ð»Ð¾ÑÐ°Ð¼ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð¿ÑÐµÑÑÐ¿ÐµÑÑ-Ð²-mrbeast-production (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð»Ð¾ÑÐ½Ð¾ÑÑÑ-ÑÐ°Ð»Ð°Ð½ÑÐ°-Ð±ÑÐµÑ-Ð¼Ð°ÑÑÑ-ÑÐ°Ð»Ð°Ð½ÑÐ° (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿ÑÐµÐ´ÑÑÐ°Ð²Ð»ÑÐµÐ¼-nfactorial-research (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¼Ð°ÑÐº-Ð°Ð½Ð´ÑÐ¸ÑÑÐµÐ½-ÑÑÐ¸Ð²-Ð´Ð¶Ð¾Ð±Ñ-Ð¸-Ð¼Ð¸Ð»ÑÐµ-ceo (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¸ÑÑÐ¾ÑÐ¸Ñ-flip-kz-ÐºÐ°Ðº-Ð¿Ð¾ÑÑÑÐ¾Ð¸ÑÑ-Ð¼Ð¸Ð»Ð»Ð¸Ð°ÑÐ´Ð½ÑÐ¹-ÑÑÐ°ÑÑÐ°Ð¿-Ð¸Ð·-ÐºÐ°ÑÐ°Ð³Ð°Ð½Ð´Ñ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¼Ð¾Ðµ-10-Ð¼Ð¸Ð½ÑÑÐ½Ð¾Ðµ-Ð²ÑÑÑÑÐ¿Ð»ÐµÐ½Ð¸Ðµ-Ð½Ð°-ÑÐµÐ¼Ñ-ÑÐ°Ð¼Ð¾Ðµ-Ð±Ð¾Ð»ÑÑÐ¾Ðµ-Ð¾ÑÐºÑÑÑÐ¸Ðµ-ÑÐµÐ½Ð½Ð¾ÑÑÐ¸-Ð²-Ð¸ÑÑÐ¾ÑÐ¸Ð¸-ÑÐµÐ»Ð¾Ð²ÐµÑÐµÑÑÐ²Ð°-Ñ-central-eurasian-venture-forum-2024-Ð²ÑÐ»Ð¾Ð¶Ð¸Ð»Ð¸-Ð²-youtube (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾Ð»ÑÑÐ¸Ð»-Ð¾Ð³ÑÐ¾Ð¼Ð½Ð¾Ðµ-ÑÐ´Ð¾Ð²Ð¾Ð»ÑÑÑÐ²Ð¸Ðµ-Ð¾Ñ-ÑÑÐ°ÑÑÐ¸Ñ-Ð²-Ð¿Ð¾Ð´ÐºÐ°ÑÑÐµ-vision-Ð°ÑÐ¼Ð°Ð½Ð°-ÑÑÑÐ¿Ð¾Ð²Ð° (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð·Ð°-Ð¿Ð°ÑÑ-Ð½Ð¾ÑÐµÐ¹-Ð´Ð¾-neurips-Ð´ÐµÐ´Ð»Ð°Ð¹Ð½Ð°-uszkoreit-Ð²ÑÐ¿Ð¾Ð¼Ð½Ð¸Ð»-ÑÑÐ¾-Ð´Ð»Ñ-ÑÑÐ°ÑÑÐ¸-Ð½ÑÐ¶Ð½Ð¾-Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾ÑÐ»Ðµ-6-Ð¼ÐµÑÑÑÐµÐ²-Ð¸Ð½ÑÐµÐ½ÑÐ¸Ð²Ð½ÑÑ-ÑÑÐµÐ¼Ð¾Ðº-Ð¼Ð¾Ð½ÑÐ°Ð¶Ð°-Ð¸-Ð±Ð¾Ð»ÑÑÐ¾Ð³Ð¾-ÐºÐ¾Ð»Ð¸ÑÐµÑÑÐ²Ð°-Ð¸ÑÐµÑÐ°ÑÐ¸Ð¹-Ð½Ð°Ñ-Ð´Ð¾ÐºÑÐ¼ÐµÐ½ÑÐ°Ð»ÑÐ½ÑÐ¹-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÐºÐ¸-Ð²-ÐºÑÐµÐ¼Ð½Ð¸ÐµÐ²Ð¾Ð¹-Ð´Ð¾Ð»Ð¸Ð½Ðµ-Ð³Ð¾ÑÐ¾Ð² (from https://www.nfactorial.school/blog/all)
-15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð³Ð¾ÑÑÑ-70-Ð³Ð¾-ÑÐ¿Ð¸Ð·Ð¾Ð´Ð°-nfactorial-podcast-bagdat-mussin-Ð¼Ð¸Ð½Ð¸ÑÑÑ-ÑÐ¸ÑÑÐ¾Ð²Ð¾Ð³Ð¾-ÑÐ°Ð·Ð²Ð¸ÑÐ¸Ñ-Ð¸Ð½Ð½Ð¾Ð²Ð°ÑÐ¸Ð¹-Ð¸-Ð°ÑÑÐ¾ÐºÐ¾ÑÐ¼Ð¸ÑÐµÑÐºÐ¾Ð¹-Ð¿ÑÐ¾Ð¼ÑÑÐ»ÐµÐ½Ð½Ð¾ÑÑÐ¸ (from https://www.nfactorial.school/blog/all)
-15:21:17	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð·Ð°Ð¿Ð°Ð´-ÑÐºÐ°ÑÑÐ²Ð°ÐµÑÑÑ-Ð²-ÑÐ¾ÑÐ¸Ð°Ð»Ð¸Ð·Ð¼-Ð±ÐµÐ´Ð½Ð¾ÑÑÑ (from https://www.nfactorial.school/blog/all)
-15:21:19	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²-Ð´Ð°Ð»ÐµÐºÐ¾Ð¼-2012Ð³-Ð¼Ð¾Ð¹-Ð°Ð¼ÐµÑÐ¸ÐºÐ°Ð½ÑÐºÐ¸Ð¹-ÐºÐ¾Ð»Ð»ÐµÐ³Ð°-Ð´Ð¶Ð¾ÑÐ´Ð°Ð½-Ð»Ð¸-Ð²-Ð¾Ð´Ð¸Ð½-Ð¸Ð·-Ð²ÐµÑÐµÑÐ¾Ð²-Ð¿Ð¾ÑÐ»Ðµ-ÑÐ°Ð±Ð¾ÑÑ-ÑÐ»ÑÑÐ°Ð¹Ð½Ð¾-Ð²ÑÐ¿Ð¾Ð¼Ð½Ð¸Ð»-ÑÑÐ¾-Ñ-Ð½Ð¸Ð¼-Ð½Ð°-Ð±Ð°ÐºÐ°Ð»Ð°Ð²ÑÐ¸Ð°ÑÐµ-ÑÑÐ¸Ð»ÑÑ-Ð¿Ð°ÑÐµÐ½Ñ-Ñ-ÑÐ°Ð¼Ð¸Ð»Ð¸ÐµÐ¹-Ð½Ð°-Ð¾Ð² (from https://www.nfactorial.school/blog/all)
-15:21:19	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð´Ð¾-ÑÐ¸Ñ-Ð¿Ð¾ÑÐ°Ð¶Ð°ÑÑÑ-ÐºÐ°Ð»Ð¸Ð±ÑÐ¾Ð¼-ÑÐ°ÑÐ½Ð´ÐµÑÐ¾Ð²-ÑÐ°Ð¼Ð¾Ð³Ð¾-Ð¿ÐµÑÐ²Ð¾Ð³Ð¾-Ð¿Ð¾ÑÐ¾ÐºÐ°-y-combinator-Ð»ÐµÑÐ¾Ð¼-2005Ð³ (from https://www.nfactorial.school/blog/all)
-15:21:19	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð´ÐµÐ»Ð°ÑÑ-Ð¿ÑÐ¾Ð´Ð°Ð¶Ð¸-Ð¸-Ð¿ÑÐ¸Ð²Ð»ÐµÐºÐ°ÑÑ-Ð¸Ð½Ð²ÐµÑÑÐ¸ÑÐ¸Ð¸-Ð²-ÐºÑÐµÐ¼Ð½Ð¸ÐµÐ²Ð¾Ð¹-Ð´Ð¾Ð»Ð¸Ð½Ðµ (from https://www.nfactorial.school/blog/all)
-15:21:19	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð²ÑÐ±ÑÐ°ÑÑ-Ð¼ÐµÐ¶Ð´Ñ-ÑÐµÐ¼-ÑÑÐ¾-Ð½ÑÐ°Ð²Ð¸ÑÑÑ-Ð°ÑÐ´Ð¸ÑÐ¾ÑÐ¸Ð¸-Ð¸-ÑÐµÐ¼-ÑÑÐ¾-Ð½ÑÐ°Ð²Ð¸ÑÑÑ-Ð²Ð°Ð¼ (from https://www.nfactorial.school/blog/all)
-15:21:50	Error: 	"Bad Request" (400) at link https://www.nfactorial.school/blog3/Ð²-Ð½Ð°ÑÐ°Ð»Ðµ-ÑÑÐ¾Ð³Ð¾-Ð³Ð¾Ð´Ð°-(Ð°-Ð¸Ð¼ÐµÐ½Ð½Ð¾-2-Ð¼Ð°ÑÑÐ°)-ÐºÐ¾Ð³Ð´Ð°-ÑÐ¾Ð½Ð´Ð¾Ð²ÑÐ¹-ÑÑÐ½Ð¾Ðº-ÑÐ¸Ð»ÑÐ½Ð¾-ÑÐ´Ð°ÑÐ¸Ð»-Ð¿Ð¾-Ð¾ÑÐµÐ½ÐºÐµ-google-Ð½Ðµ-Ð²ÐµÑÑ-Ð²-Ð¸Ñ-Ð¸Ð¸-ÑÑÑÐ°ÑÐµÐ³Ð¸Ñ-pershing-square-holdings-ÑÐ¾Ð»Ð´Ð¸Ð½Ð³-ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ-Ð²Ð¾Ð·Ð³Ð»Ð°Ð²Ð»ÑÐµÐ¼Ð°Ñ-Ð»ÐµÐ³ÐµÐ½Ð´Ð°ÑÐ½ÑÐ¼-Ð±Ð¸Ð»Ð»Ð¾Ð¼-ÑÐºÐ¼Ð°Ð½Ð¾Ð¼-Ð¿Ð¾ÑÐµÐ»-Ð½Ð°Ð¿ÐµÑÐµÐºÐ¾Ñ-ÑÐ¾Ð»Ð¿Ðµ-Ð¸-ÐºÑÐ¿Ð¸Ð»-Ð±Ð¾Ð»ÑÑÑÑ-Ð¿Ð¾Ð·Ð¸ÑÐ¸Ñ-Ð²-Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð¼-Ð³Ð¸Ð³Ð°Ð½ÑÐµ (from https://www.nfactorial.school/blog/all)
-15:21:54	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¸ÑÐ¾Ð³Ð¸-Ð»ÐµÑÐ°-2023Ð³-ÑÐ¾Ð·Ð´Ð°Ð»Ð¸-100-Ð¸Ð¸-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹-Ð¸-100-Ð¸Ð¸-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¾Ð² (from https://www.nfactorial.school/blog/all)
-15:21:58	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ-shopify-ÑÐ´Ð°Ð»Ð¸Ð»Ð°-12-000-ÑÐ°Ð±Ð¾ÑÐ¸Ñ-ÑÐ¾Ð²ÐµÑÐ°Ð½Ð¸Ð¹-Ð²-ÑÑÐ¾Ð¼-Ð³Ð¾Ð´Ñ (from https://www.nfactorial.school/blog/all)
-15:21:58	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ¾-Ñ-ÐºÐ°ÐºÐ¾Ð¹-ÑÑÐ°ÑÐµÐ»ÑÐ½Ð¾ÑÑÑÑ-Ð¸-Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸ÐµÐ¼-Ðº-Ð´ÐµÑÐ°Ð»ÑÐ¼-sanjar-madi-Ð³Ð¾ÑÐ¾Ð²Ð¸ÑÑÑ-Ðº-ÐºÐ°ÑÑÐ¸Ð½Ð³Ð°Ð¼-Ð¿ÑÐµÐ²Ð¾ÑÑÐ¾Ð´Ð½Ð¾-Ð´ÐµÐ¼Ð¾Ð½ÑÑÑÐ¸ÑÑÐµÑ-ÑÑÐ¾-Ð´Ð»Ñ-ÑÑÐ¿ÐµÑÐ°-Ð²-Ð»ÑÐ±Ð¾Ð¹-ÐºÐ°ÑÑÐµÑÐµ-Ð¾Ð´Ð½Ð¾Ð³Ð¾-ÑÐ°Ð»Ð°Ð½ÑÐ°-ÑÐ²Ð½Ð¾-Ð½ÐµÐ´Ð¾ÑÑÐ°ÑÐ¾ÑÐ½Ð¾ (from https://www.nfactorial.school/blog/all)
-15:22:07	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾Ð³Ð¾Ð²Ð¾ÑÐ¸Ð»Ð¸-Ð¾-Ð¿ÐµÑÑÐ¿ÐµÐºÑÐ¸Ð²Ð°Ñ-junior-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¾Ð²-Ð½Ð°-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÑÐºÐ¾Ð¼-Ð¸Ñ-ÑÑÐ½ÐºÐµ (from https://www.nfactorial.school/blog/all)
-15:22:10	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/35-Ð¸Ð´ÐµÐ¹-Ð´Ð»Ñ-Ð¸Ð¸-ÑÑÐ°ÑÑÐ°Ð¿Ð¾Ð²-ÐºÐ¾ÑÐ¾ÑÑÐµ-ÑÐµÐ°Ð»Ð¸ÑÑÐ¸ÑÐ½Ð¾-ÑÐµÐ°Ð»Ð¸Ð·Ð¾Ð²Ð°ÑÑ-ÑÑÐ¸Ð¼-Ð»ÐµÑÐ¾Ð¼ (from https://www.nfactorial.school/blog/all)
-15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ¾ÑÐµÐ¹-Ð¾Ð¾ÑÐ°Ð½Ð¸-Ð¾Ð´Ð½Ð°-Ð¸Ð·-Ð³Ð»Ð°Ð²Ð½ÑÑ-Ð·Ð²ÐµÐ·Ð´-Ð¼Ð¸ÑÐ¾Ð²Ð¾Ð³Ð¾-Ð±ÐµÐ¹ÑÐ±Ð¾Ð»Ð° (from https://www.nfactorial.school/blog/all)
-15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°ÑÑÐµÑÐ°-Ð¾ÑÐ½Ð¾Ð²Ð°ÑÐµÐ»Ñ-parqour-Ð¸-smart-point-Ð°Ð¼Ð¸ÑÑÐ°Ð½Ð°-Ð¾Ð¼Ð°ÑÐ¾Ð²Ð°-Ð±Ð¾Ð»ÑÑÐµ-Ð²ÑÐµÐ³Ð¾-Ñ-Ð¼ÐµÐ½Ñ-Ð°ÑÑÐ¾ÑÐ¸Ð¸ÑÑÐµÑÑÑ-Ñ-2-Ð¿ÑÐµÐ´Ð¿ÑÐ¸Ð½Ð¸Ð¼Ð°ÑÐµÐ»ÑÐ¼Ð¸ (from https://www.nfactorial.school/blog/all)
-15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ²Ð¾ÑÐ¸ÑÑ-Ð¸ÑÑÐ¾ÑÐ¸Ñ-Ð·Ð°-13-Ð´Ð½ÐµÐ¹ (from https://www.nfactorial.school/blog/all)
-15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²Ñ-Ð½Ðµ-ÑÐ»Ð¸ÑÐºÐ¾Ð¼-ÑÑÐ°ÑÑ-ÑÑÐ¾Ð±Ñ-Ð½Ð°ÑÐ°ÑÑ-ÐºÐ°ÑÑÐµÑÑ-Ð²-Ð¸Ð¸ (from https://www.nfactorial.school/blog/all)
-15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾Ð´Ð»Ð¾Ð²Ð¸Ð»Ð¸-eldar-akhmetgaliyev-Ð¿Ð¾ÐºÐ°-Ð¾Ð½-Ð¿ÑÐ¸ÐµÐ·Ð¶Ð°Ð»-Ð²-Ð°Ð»Ð¼Ð°ÑÑ-Ð¸Ð·-ÐºÐ°Ð»Ð¸ÑÐ¾ÑÐ½Ð¸Ð¸-Ð³Ð´Ðµ-Ð¶Ð¸Ð²ÐµÑ-Ñ-2009Ð³ (from https://www.nfactorial.school/blog/all)
-15:22:14	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²ÑÐµ-ÑÑÐ¾-Ð¿ÑÐ¾Ð¸Ð·Ð¾ÑÐ»Ð¾-Ñ-Ð¸ÑÐºÑÑÑÑÐ²ÐµÐ½Ð½ÑÐ¼-Ð¸Ð½ÑÐµÐ»Ð»ÐµÐºÑÐ¾Ð¼-Ð·Ð°-Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ-10-Ð»ÐµÑ (from https://www.nfactorial.school/blog/all)
-15:22:14	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð½Ð°-Ð¿ÑÐ¾ÑÐ»Ð¾Ð¹-Ð½ÐµÐ´ÐµÐ»Ðµ-Ñ-Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð»-Ð¾ÑÐºÑÑÑÑÑ-zoom-Ð»ÐµÐºÑÐ¸Ñ-Ð½Ð°-ÑÐµÐ¼Ñ-30-ÑÐ¿Ð¾ÑÐ¾Ð±Ð¾Ð²-Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ-chatgpt-Ð¾-ÐºÐ¾ÑÐ¾ÑÑÑ-Ð²Ñ-Ð½Ðµ-ÑÐ»ÑÑÐ°Ð»Ð¸ (from https://www.nfactorial.school/blog/all)
-15:22:14	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²ÑÑÐ»Ð¾-Ð²Ð¸Ð´ÐµÐ¾-Ð¼Ð¾ÐµÐ¹-Ð¾ÑÐºÑÑÑÐ¾Ð¹-Ð»ÐµÐºÑÐ¸Ð¸-Ð¿Ð¾-ÑÐµÐ¼Ðµ-ÑÐ¾Ð¿-50-Ð¸Ð¸-ÑÑÐ°ÑÑÐ°Ð¿Ð¾Ð²-Ð¾-ÐºÐ¾ÑÐ¾ÑÑÑ-Ð²Ñ-Ð½Ðµ-Ð·Ð½Ð°Ð»Ð¸-Ð²-ÑÐ°Ð¼ÐºÐ°Ñ-ÑÐµÑÐ¸Ð¸-nfactorial-curious (from https://www.nfactorial.school/blog/all)
-15:22:16	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²-Ð¿ÐµÑÐ¸Ð¾Ð´-2010-2013-Ð³Ð³-Ñ-Ð·Ð°Ð¿Ð¸ÑÐ°Ð»-Ð¿Ð¾ÑÑÐ´ÐºÐ°-30-ÑÐ¿Ð¸Ð·Ð¾Ð´Ð¾Ð²-Ð¿Ð¾Ð´ÐºÐ°ÑÑÐ°-princeton-startup-tv (from https://www.nfactorial.school/blog/all)
-15:22:16	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð±ÑÐ»-ÑÐ°Ðº-Ð²Ð¿ÐµÑÐ°ÑÐ»ÐµÐ½-Ð¸Ð¼Ð¼ÐµÑÑÐ¸Ð²Ð½ÑÐ¼-Ð¼Ð¸ÑÐ¾Ð¼-Ð²-avatar-2-ÑÑÐ¾-Ð¿Ð¾ÑÐµÐ»-ÑÐ¸ÑÐ°ÑÑ-ÐºÐ°Ðº-ÑÑÐ¾Ñ-Ð½ÐµÐ²ÐµÑÐ¾ÑÑÐ½ÑÐ¹-ÑÐ¸Ð»ÑÐ¼-ÑÐ¾Ð·Ð´Ð°Ð²Ð°Ð»ÑÑ (from https://www.nfactorial.school/blog/all)
-15:22:16	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/6-Ð»ÐµÑ-Ð½Ð°Ð·Ð°Ð´-Ð¸Ð»Ð¾Ð½-Ð¼Ð°ÑÐº-Ð¾ÑÐ¿ÑÐ°Ð²Ð¸Ð»-email-ÑÐ¾ÑÑÑÐ´Ð½Ð¸ÐºÐ°Ð¼-tesla-Ð³Ð´Ðµ-Ð¿Ð¾Ð´ÐµÐ»Ð¸Ð»ÑÑ-ÑÐ²Ð¾Ð¸Ð¼Ð¸-ÑÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°ÑÐ¸ÑÐ¼Ð¸-Ð¿Ð¾-Ð¿ÑÐ¾Ð´ÑÐºÑÐ¸Ð²Ð½Ð¾ÑÑÐ¸-Ð´Ð»Ñ-Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑÐ¾Ð² (from https://www.nfactorial.school/blog/all)
-15:22:17	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¾-Ð½ÐµÐ»Ð¸Ð½ÐµÐ¹Ð½Ð¾ÑÑÐ¸-Ð²ÑÐµÐ¼ÐµÐ½Ð¸-ÐºÐ°Ðº-1-ÑÐ°Ñ-Ð¾ÐºÐ°Ð·Ð°Ð»ÑÑ-ÑÐµÐ½Ð½ÐµÐµ-ÑÐµÐ¼-Ð²ÑÑ-Ð¶Ð¸Ð·Ð½Ñ (from https://www.nfactorial.school/blog/all)
-15:22:17	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð¿Ð¸ÑÐ°ÑÑ-ÐºÐ°Ðº-Ð²-amazon (from https://www.nfactorial.school/blog/all)
-15:22:18	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð±ÑÐºÐ²Ð°Ð»ÑÐ½Ð¾-Ð¿ÐµÑÐµÐ´-Ð¿Ð¾Ð»ÐµÑÐ¾Ð¼-Ð²-Ð´ÐµÐ½Ð²ÐµÑ-Ð·Ð°ÑÐµÐ»-Ð²-Ð³Ð¾ÑÑÐ¸-Ðº-Ð´Ð¾ÑÑÐ¼Ñ-ÑÐ°ÑÐ¿Ð°ÐµÐ²Ñ (from https://www.nfactorial.school/blog/all)
-15:22:18	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¼ÑÑÐ»Ñ-ÐºÐ¾ÑÐ¾ÑÑÑ-Ð¼Ð½Ðµ-Ð½Ð°Ð¿Ð¾Ð¼Ð½Ð¸Ð»Ð¸-Ð½Ð°-Ð²ÑÑÐ¾Ð´Ð½ÑÑ-Ð½Ð¾-ÐºÐ¾ÑÐ¾ÑÑÑ-Ð´Ð¾Ð»Ð³Ð¾-Ð¾Ð±Ð´ÑÐ¼ÑÐ²Ð°Ð»-Ð´Ð¾-ÑÑÐ¾Ð³Ð¾ (from https://www.nfactorial.school/blog/all)
-15:22:25	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.nfactorial.school/blog2/9-shagov-po-optimizacii-vashego-socialnogo-kruga (from https://www.nfactorial.school/blog/all)
-15:22:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog2/ÐºÐ°ÐºÐ¸Ðµ-ÑÐ¾ÑÐ¼Ð°ÑÑ-Ð´ÐµÐ¹ÑÑÐ²ÑÑÑ-Ð½Ð°-ÑÑÐ½ÐºÐµ-Ð¾Ð½Ð»Ð°Ð¹Ð½-ÑÑÐ¿ÐµÑÐ¼Ð°ÑÐºÐµÑÐ¾Ð² (from https://www.nfactorial.school/blog/all)
-15:22:25	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.nfactorial.school/blog2/kazahstanskie-komandy-v-acm-icpc-samom-prestizhnom-chempionate-po-programmirovaniyu (from https://www.nfactorial.school/blog/all)
-15:23:02	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.nfactorial.school/blog2/duolingo-users-growth-in-5-years (from https://www.nfactorial.school/blog/all)
-15:23:06	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog2/Ð²Ð½ÑÑÑÐµÐ½Ð½ÑÑ-ÐºÑÑÐ½Ñ-Ð¿ÑÐ¸Ð½ÑÑÐ¾Ð½Ð° (from https://www.nfactorial.school/blog/all)
-15:23:12	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog2/ÑÑÐ°Ð´Ð¸ÑÐ¸Ð¾Ð½Ð½Ð¾-ÑÑÐ¸ÑÐ°ÐµÑÑÑ-ÑÑÐ¾-ÐºÐ¾Ð¼Ð±Ð¾-ÑÑÐ¾-Ð¿Ð»Ð¾ÑÐ¾-ÐºÐ°Ðº-Ð´Ð»Ñ-ÐºÐ»Ð¸ÐµÐ½ÑÐ°-ÑÐ°Ðº-Ð¸-Ð´Ð»Ñ-Ð¿Ð¾ÑÑÐ°Ð²ÑÐ¸ÐºÐ¾Ð² (from https://www.nfactorial.school/blog/all)
-15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/moneyball-Ð¿Ð¾Ð½ÑÑÑ-Ð»ÑÐ´ÐµÐ¹-ÑÑÐ¾Ð±Ñ-ÑÐ¾Ð·Ð´Ð°ÑÑ-ÑÐ¸Ð»ÑÐ½ÑÑ-ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ (from https://www.nfactorial.school/blog/all)
-15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/7-ÑÐ»ÑÑÐ°Ð¹Ð½ÑÑ-ÑÑÐ¾ÐºÐ¾Ð²-Ð¾-Ð¶Ð¸Ð·Ð½Ð¸ (from https://www.nfactorial.school/blog/all)
-15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/Ð¿ÑÐ¾ÑÑÑÐ¼Ð¸-ÑÐ»Ð¾Ð²Ð°Ð¼Ð¸-Ð¿Ð¾ÑÐµÐ¼Ñ-bitcoin-Ð¼Ð¾Ð¶ÐµÑ-ÑÐ°Ð·Ð´ÐµÐ»Ð¸ÑÑÑÑ-Ð½Ð°-2-Ð²Ð°Ð»ÑÑÑ (from https://www.nfactorial.school/blog/all)
-15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/ÐºÐ¾Ð½ÐµÑÐ½Ð¾-Ð»Ð¸-ÑÐ¸ÑÐ»Ð¾-Ð±Ð¸ÑÐºÐ¾Ð¸Ð½Ð¾Ð²-Ð¸-ÑÐºÐ¾Ð»ÑÐºÐ¾-Ð¸Ñ-Ð²ÑÐµÐ³Ð¾ (from https://www.nfactorial.school/blog/all)
-15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/ÐºÐ°Ðº-Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÑ-ÐºÐ°Ð»ÐµÐ½Ð´Ð°ÑÑ-Ð´Ð»Ñ-Ð¼Ð°ÐºÑÐ¸Ð¼Ð¸Ð·Ð°ÑÐ¸Ð¸-ÑÑÑÐµÐºÑÐ¸Ð²Ð½Ð¾ÑÑÐ¸ (from https://www.nfactorial.school/blog/all)
-15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/Ð¼Ð¾Ð¸-Ð»ÑÐ±Ð¸Ð¼ÑÐµ-ÐºÐ½Ð¸Ð³Ð¸ (from https://www.nfactorial.school/blog/all)
-15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/21-ÑÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°ÑÐ¸Ñ-Ð´Ð»Ñ-ÑÐ¾Ð·Ð´Ð°ÑÐµÐ»ÐµÐ¹-Ð¼Ð¾Ð±Ð¸Ð»ÑÐ½ÑÑ-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ (from https://www.nfactorial.school/blog/all)
-15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/Ð³ÐµÐ¾Ð³ÑÐ°ÑÐ¸Ñ-Ð³ÐµÐ½Ð¸ÐµÐ²-Ð²-Ð¿Ð¾Ð¸ÑÐºÐµ-ÑÐ°Ð¼ÑÑ-Ð¸Ð½Ð½Ð¾Ð²Ð°ÑÐ¸Ð¾Ð½Ð½ÑÑ-Ð¼ÐµÑÑ-Ð½Ð°-Ð·ÐµÐ¼Ð»Ðµ (from https://www.nfactorial.school/blog/all)
-15:23:57	Error: 	"Not Found" (404) at link https://www.nfactorial.school/courses/nfactorial-algorithms-data-structures (from https://www.nfactorial.school/blog2/stripe-samyy-goryachiy-amerikanskiy-startap)
-
-HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 15 seconds : 1121 links scanned, 1010 files written (380750500 bytes overall) [294528704 bytes received at 400719 bytes/sec], 139624282 bytes transferred using HTTP compression in 391 files, ratio 11%, 2.7 requests per connection
-(103 errors, 4 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Aug 2025 15:11:47 at https://www.nfactorial.school/ +*.css +*.js +*.mjs +*.json +*.svg +*.png +*.jpg +*.jpeg +*.webp +*.ico +*.woff +*.woff2 +*.ttf +https://framerusercontent.com/* +https://edit.framer.com/*
+
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nfactorial.school/ -O1 "C:\My Web Sites\nfactorial" +*.css +*.js +*.mjs +*.json +*.svg +*.png +*.jpg +*.jpeg +*.webp +*.ico +*.woff +*.woff2 +*.ttf +https://framerusercontent.com/* +https://edit.framer.com/* )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+15:12:42	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.nfactorial.school/)
+
+15:12:43	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.nfactorial.school/)
+
+15:15:10	Warning: 	Note: due to https://framerusercontent.com remote robots.txt rules, links beginning with these path will be forbidden: /*.pdf$, /*.PDF$ (see in the options to disable this)
+
+15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐ¾Ð·Ð´Ð°Ð»-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ-ÐºÐ¾ÑÐ¾ÑÐ¾Ðµ-Ð·Ð°ÑÐ°Ð±Ð¾ÑÐ°Ð»Ð¾-Ð±Ð¾Ð»ÐµÐµ-1000-Ð·Ð°-10-Ð½ÐµÐ´ÐµÐ»Ñ (from https://www.nfactorial.school/blog)
+
+15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿Ð¾Ð¼Ð¾Ð³Ð°ÐµÑ-Ð¸Ð¸-ÑÐ°Ð±Ð¾ÑÐ°ÑÑ-Ð½Ð°-ÑÐºÐ¾ÑÐ¾ÑÑÐ¸-ÑÐ²ÐµÑÐ° (from https://www.nfactorial.school/blog)
+
+15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐ½Ð¸Ð¼Ð°Ð»ÑÑ-Ð²-ÑÐ¸Ð»ÑÐ¼Ðµ-Ñ-Ð´Ð¶ÐµÐºÐ¸-ÑÐ°Ð½Ð¾Ð¼ (from https://www.nfactorial.school/blog)
+
+15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð²ÑÐ¿ÑÑÐºÐ½Ð¸ÐºÐ°-nfactorial-incubator-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿Ð¾Ð¿Ð°Ð»-Ð²-ÑÐ¿Ð¸ÑÐ¾Ðº-forbes-30-Ð´Ð¾-30-Ð²-2025-Ð³Ð¾Ð´Ñ (from https://www.nfactorial.school/blog)
+
+15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐµÐ´Ð¸Ð½ÑÑÐ²ÐµÐ½Ð½Ð¾Ð³Ð¾-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð²ÑÐ¸Ð³ÑÐ°Ð»-Ð·Ð¾Ð»Ð¾ÑÐ¾-Ð½Ð°-Ð¼ÐµÐ¶Ð´ÑÐ½Ð°ÑÐ¾Ð´Ð½Ð¾Ð¹-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ðµ-Ð¿Ð¾-Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ (from https://www.nfactorial.school/blog)
+
+15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÑÐºÐ¾Ð»ÑÐ½Ð¸ÐºÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð²ÑÐ¸Ð³ÑÐ°Ð»-Ð¿ÐµÑÐ²ÑÑ-ÑÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ°Ð½ÑÐºÑÑ-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ñ-Ð¿Ð¾-Ð¸Ð¸-Ð¸-Ð¿Ð¾Ð»ÑÑÐ¸Ð»-Ð³ÑÐ°Ð½Ñ-Ð²-ÐºÐ°Ð½Ð°Ð´ÑÐºÐ¸Ð¹-ÑÐ¾Ð¿-Ð²ÑÐ· (from https://www.nfactorial.school/blog)
+
+15:20:45	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/nfactorial-research-Ð°Ð½Ð°Ð»Ð¸Ð·-Ð¸-Ð¿Ð¾Ð»ÐµÐ·Ð½ÑÐµ-Ð¸Ð½ÑÐ°Ð¹ÑÑ-Ð´Ð»Ñ-Ð²Ð°ÑÐµÐ³Ð¾-Ð±Ð¸Ð·Ð½ÐµÑÐ°-Ð¸Ð·-10-000-ÑÐ°Ð¹Ð»Ð¾Ð² (from https://www.nfactorial.school/blog)
+
+15:20:48	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-ÑÐ¾ÑÑÐµÑÐ¸-Ð²Ð»Ð¸ÑÑÑ-Ð½Ð°-Ð½Ð°ÑÐ¸-ÑÐ¼Ð¾ÑÐ¸Ð¸ (from https://www.nfactorial.school/blog)
+
+15:20:48	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ°ÑÐ½Ð°-Ð½Ð¾Ð²Ð¾Ðµ-Ð¼ÐµÑÑÐ¾-Ð´Ð»Ñ-Ð±Ð¸Ð·Ð½ÐµÑ-Ð²ÑÑÑÐµÑ (from https://www.nfactorial.school/blog)
+
+15:20:48	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð¸ÑÐºÑÑÑÑÐ²ÐµÐ½Ð½ÑÐ¹-Ð¸Ð½ÑÐµÐ»Ð»ÐµÐºÑ-Ð¼ÐµÐ½ÑÐµÑ-Ð¶Ð¸Ð·Ð½Ñ-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¾Ð² (from https://www.nfactorial.school/blog)
+
+15:20:48	Error: 	"Not Found" (404) at link https://i.ytimg.com/ (from https://www.nfactorial.school/incubator)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÑÐ°-Ð¸Ð·-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½Ð°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿Ð¾Ð¼Ð¾Ð³Ð°ÐµÑ-Ð·Ð°Ð³ÑÑÐ¶Ð°ÑÑÑÑ-Ð¼Ð¸Ð»Ð»Ð¸Ð¾Ð½Ð°Ð¼-ÑÐ°Ð¹ÑÐ¾Ð²-Ð¿Ð¾-Ð²ÑÐµÐ¼Ñ-Ð¼Ð¸ÑÑ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð»ÑÑÑÐµÐ³Ð¾-Ð¸Ð½Ð´Ð¸-Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÑÐ°-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½Ð° (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-19-Ð»ÐµÑÐ½ÐµÐ³Ð¾-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÑÐ¸Ð²Ð»ÐµÐº-250-ÑÑÑÑÑ-Ð¸Ð½Ð²ÐµÑÑÐ¸ÑÐ¸Ð¹ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð½Ð°Ð¿Ð¸ÑÐ°Ð»-ÑÑÐ°ÑÑÑ-Ñ-Ð±ÑÐ²ÑÐ¸Ð¼-Ð´Ð¸ÑÐµÐºÑÐ¾ÑÐ¾Ð¼-ai-Ð²-apple (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÑÐºÐ¾Ð»ÑÐ½Ð¸ÐºÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿Ð¾Ð»ÑÑÐ¸Ð»-1-Ð¼Ð»Ð½-Ð¸Ð½Ð²ÐµÑÑÐ¸ÑÐ¸Ð¹-Ð²ÑÐµÐ³Ð¾-Ð·Ð°-Ð¿ÑÑÑ-Ð´Ð½ÐµÐ¹-Ð²-Ð»Ð¾Ð½Ð´Ð¾Ð½Ðµ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð¿ÐµÑÐ²Ð¾Ð³Ð¾-ÐºÐ°Ð·Ð°ÑÐ°-Ð²-caltech-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð²ÑÐ¸Ð³ÑÐ°Ð»-Ð¿ÐµÑÐ²ÑÑ-Ð·Ð¾Ð»Ð¾ÑÑÑ-Ð¼ÐµÐ´Ð°Ð»Ñ-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½Ð°-Ð½Ð°-Ð¼ÐµÐ¶Ð´ÑÐ½Ð°ÑÐ¾Ð´Ð½Ð¾Ð¹-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ðµ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐ¾Ð·Ð´Ð°Ð»-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ-Ð´Ð»Ñ-ÐºÐ°ÑÑÐ¾ÑÐ½Ð¾Ð¹-Ð¸Ð³ÑÑ-Ð±ÐµÐ»ÐºÐ° (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð·Ð²ÐµÐ·Ð´Ð½ÑÑ-Ð±ÑÐ°ÑÑÐµÐ²-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¾Ð²-ÐºÐ¾ÑÐ¾ÑÑÐµ-Ð¿Ð¾ÐºÐ¾ÑÐ¸Ð»Ð¸-big-tech (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð»ÐµÐ³ÐµÐ½Ð´Ñ-ÐºÐ°Ð·Ð°ÑÑÐºÐ¾Ð¹-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ð½Ð¾Ð¹-Ð¼Ð°ÑÐµÐ¼Ð°ÑÐ¸ÐºÐ¸-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐ°Ð±Ð¾ÑÐ°Ð»-Ð½Ð°Ð´-ÑÐ°Ð·Ð²Ð¸ÑÐ¸ÐµÐ¼-Ð¸ÑÐºÑÑÑÑÐ²ÐµÐ½Ð½Ð¾Ð³Ð¾-Ð¸Ð½ÑÐµÐ»Ð»ÐµÐºÑÐ°-ÐµÑÐµ-Ð·Ð°-5-Ð»ÐµÑ-Ð´Ð¾-Ð¿Ð¾ÑÐ²Ð»ÐµÐ½Ð¸Ñ-chatgpt-Ð¸-gemini (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐºÑ-ÐºÐ¾ÑÐ¾ÑÐ°Ñ-ÑÐ¾Ð·Ð´Ð°Ð»Ð°-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ-ÐºÐ¾ÑÐ¾ÑÐ¾Ðµ-Ð½Ð°Ð±ÑÐ°Ð»Ð¾-250-ÑÑÑÑÑ-Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¹ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÐµÑÐ²ÑÐ¼-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐ°Ð»-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ-Ð³Ð´Ðµ-ÑÐ¾Ð±ÑÐ°Ð»-ÑÐµÐ¼ÐµÐ¹Ð½Ð¾Ðµ-ÑÐµÐ¶ÑÑÐµ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÑÐ¾Ð´Ð°Ð»-ÑÐ²Ð¾Ð¹-ÑÑÐ°ÑÑÐ°Ð¿-Ð¸ÑÐ¿Ð°Ð½ÑÐºÐ¾Ð¼Ñ-Ð¼ÐµÐ´Ð¸Ð°ÑÐ¾Ð»Ð´Ð¸Ð½Ð³Ñ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐºÑ-ÐºÐ¾ÑÐ¾ÑÐ°Ñ-ÑÑÐ°Ð»Ð°-Ð²ÐµÐ½ÑÑÑÐ½ÑÐ¼-ÐºÐ°Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑÐ¾Ð¼-Ð¿Ð¾ÑÐ»Ðµ-google (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÑÐ°-ÑÑÐ°ÑÑÐ°Ð¿-ÐºÐ¾ÑÐ¾ÑÐ¾Ð³Ð¾-Ð¿Ð¾Ð¿Ð°Ð»-Ð½Ð°-ycombinator-ÑÐ°Ð¼ÑÐ¹-Ð¿ÑÐµÑÑÐ¸Ð¶Ð½ÑÐ¹-Ð±Ð¸Ð·Ð½ÐµÑ-Ð°ÐºÑÐµÐ»ÐµÑÐ°ÑÐ¾Ñ-Ð¼Ð¸ÑÐ° (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°Ð»Ð¸-ÑÑÐ¾-ÐºÐ°Ð·Ð°Ñ-Ð¿ÑÐ¸Ð´ÑÐ¼Ð°Ð»-ÑÑÐ½ÐºÑÐ¸Ñ-Ð½Ð°-iphone-Ð±Ð»Ð°Ð³Ð¾Ð´Ð°ÑÑ-ÐºÐ¾ÑÐ¾ÑÐ¾Ð¹-ÑÐµÐ¿ÐµÑÑ-Ð½Ðµ-ÑÐºÐ°ÑÐ¸Ð²Ð°ÐµÑ-Ð²-Ð¼Ð°ÑÐ¸Ð½Ðµ-ÐºÐ¾Ð³Ð´Ð°-ÑÐ¼Ð¾ÑÑÐ¸ÑÑ-Ð²-ÑÐºÑÐ°Ð½ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÑÐ¸Ð»ÑÑ-Ð²Ð¼ÐµÑÑÐµ-Ñ-Ð¸Ð»Ð¾Ð½Ð¾Ð¼-Ð¼Ð°ÑÐºÐ¾Ð¼ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð·Ð½Ð°ÐºÐ¾Ð¼ÑÑÐµÑÑ-ÑÑÐ¾-Ð°Ð¼Ð°Ð½-Ð¸-Ð¿ÐµÑÐ½ÐµÑÐ°Ð½-ÑÑÐµÐ¼ÑÑÐ°ÑÐ¾Ð²Ñ-Ð·Ð²ÐµÐ·Ð´Ð½ÑÐµ-Ð±ÑÐ°ÑÑÑ-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¸ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ð·Ð°Ñ-ÐºÐ¾ÑÐ¾ÑÑÐ¹-ÑÐµÑÐ¸Ð»-Ð½ÐµÑÐµÑÐµÐ½Ð½ÑÑ-Ð·Ð°Ð´Ð°ÑÑ-Ð¿Ð¾-Ð¼Ð°ÑÐµÐ¼Ð°ÑÐ¸ÐºÐµ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÑÐ°-ÐºÐ¾ÑÐ¾ÑÐ¾Ð³Ð¾-Ð¶ÑÑÐ½Ð°Ð»-nature-Ð½Ð°Ð·Ð²Ð°Ð»-Ð»Ð¸Ð´ÐµÑÐ¾Ð¼-Ð²-Ð¾Ð±Ð»Ð°ÑÑÐ¸-ÐºÐ»Ð¾Ð½Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-Ð¿ÐµÑÐ²Ð¾Ð³Ð¾-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð·Ð°ÑÐ¸ÑÐ¸Ð»-phd-Ð²-Ð³Ð°ÑÐ²Ð°ÑÐ´Ðµ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð»ÐµÐ³ÐµÐ½Ð´Ð°-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÑÐºÐ¾Ð¹-Ð¾Ð»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ð½Ð¾Ð¹-Ð¼Ð°ÑÐµÐ¼Ð°ÑÐ¸ÐºÐ¸ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÐµÑ-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÑÐ¸Ð´ÑÐ¼Ð°Ð»-Ð½Ð¾Ð²ÑÐ¹-Ð²Ð¸Ð´-ÑÐ¸ÑÑÐ¾Ð²Ð°Ð½Ð¸Ñ-copy (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÐµÑ-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÑÐ¸Ð´ÑÐ¼Ð°Ð»-Ð½Ð¾Ð²ÑÐ¹-Ð²Ð¸Ð´-ÑÐ¸ÑÑÐ¾Ð²Ð°Ð½Ð¸Ñ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°-Ð²Ñ-Ð·Ð½Ð°ÐµÑÐµ-ÐºÐ°Ð·Ð°ÑÐ°-ÐºÐ¾ÑÐ¾ÑÑÐ¹-Ð¿ÐµÑÐ²ÑÐ¼-ÑÑÐ°Ð»-Ð¿ÑÐ¾ÑÐµÑÑÐ¾ÑÐ¾Ð¼-Ð¿Ð¾-ÐºÐ¾Ð¼Ð¿ÑÑÑÐµÑÐ½ÑÐ¼-Ð½Ð°ÑÐºÐ°Ð¼-Ð²-ÑÐ¾Ð¿-100-Ð²ÑÐ·Ðµ-ÑÑÐ° (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÐºÑ-ÐºÐ¾ÑÐ¾ÑÐ°Ñ-Ð²Ð·Ð»Ð¾Ð¼Ð°Ð»Ð°-Ð²ÑÑ-Ð½Ð°ÑÑÐ½ÑÑ-Ð¸Ð½Ð´ÑÑÑÑÐ¸Ñ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿ÐµÑÐ²Ð°Ñ-ÐºÐ°Ð·Ð°ÑÐºÐ°-Ð¿Ð¾Ð»ÑÑÐ¸Ð²ÑÐ°Ñ-ÑÑÐµÐ¿ÐµÐ½Ñ-Ð´Ð¾ÐºÑÐ¾ÑÐ°-Ð²-mit (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¼Ð¾Ð¼ÐµÐ½Ñ-Ð»Ð¸-ÑÐ¸Ð´Ð¾Ð»Ð° (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð°Ð½ÑÐ¸ÑÐ¿Ð¸ÑÐ¾Ðº-ÑÐ°Ð±Ð¾ÑÐ¸Ñ-Ð¿ÑÐ¸Ð²ÑÑÐµÐº (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¸Ð¸-Ð²-Ð¼ÐµÐ´Ð¸ÑÐ¸Ð½Ðµ-Ð¿Ð¾Ð´-Ð³Ð¾ÑÑÐ´Ð°ÑÑÑÐ²ÐµÐ½Ð½ÑÐ¹-ÐºÐ¾Ð½ÑÑÐ¾Ð»Ñ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/10-Ð´ÐµÐ½Ñ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-ÑÐ¸Ð½Ð°Ð½ÑÐ¾Ð²ÑÐµ-Ð¸ÑÐ¾Ð³Ð¸-2024-Ð³Ð¾Ð´Ð° (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/9-Ð´ÐµÐ½Ñ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-Ð²Ð¸ÐºÑÐ¾ÑÐ¸Ð½Ð°-Ð¿Ð¾-Ð¿Ð¾Ð´ÐºÐ°ÑÑÑ-acquired (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/8-Ð´ÐµÐ½Ñ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-ÑÐµÐ·ÑÐ»ÑÑÐ°ÑÑ-Ð°Ð½Ð°Ð»Ð¸Ð·Ð°-5023-ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¹-Ð²ÑÐ¿ÑÑÐºÐ½Ð¸ÐºÐ¾Ð²-y-combinator (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐµÐ´ÑÐ¼Ð¾Ð¹-Ð´ÐµÐ½Ñ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-ÑÐ¸Ð½Ð°Ð»Ð¸ÑÑÑ-icpc-Ð¸-ÑÑÐ°ÑÑÐ½Ð¸ÐºÐ¸-ioi-ÑÐ°Ð·Ð½ÑÑ-Ð»ÐµÑ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð´ÐµÐ½Ñ-6-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶Ð°-nfactorial-ai-ÑÐ¸Ð½Ð°Ð½ÑÐ¾Ð²ÑÐ¹-Ð°Ð½Ð°Ð»Ð¸ÑÐ¸Ðº (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/nfactorial-ai-Ð¿Ð¾ÑÑÑÐ¾Ð»Ð¸Ð¾-ÑÐ¾Ð¿Ð¾Ð²ÑÑ-vc-ÑÐ¾Ð½Ð´Ð¾Ð²-ÐºÑÐµÐ¼Ð½Ð¸ÐµÐ²Ð¾Ð¹-Ð´Ð¾Ð»Ð¸Ð½Ñ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/nfactorial-ai-Ð¿ÑÐ¾Ð°Ð½Ð°Ð»Ð¸Ð·Ð¸ÑÐ¾Ð²Ð°Ð»Ð¸-15-000-Ð¿ÑÐ¾ÑÐ¸Ð»ÐµÐ¹-linkedin (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð·Ð¾Ð»Ð¾ÑÑÐµ-ÑÐ¸ÑÐ°ÑÑ-Ð¸Ð·-Ð²Ð°ÑÐ¸Ñ-Ð»ÑÐ±Ð¸Ð¼ÑÑ-youtube-Ð¿Ð¾Ð´ÐºÐ°ÑÑÐ¾Ð² (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶Ð°ÐµÐ¼-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶-Ð¾Ñ-nfactorial-ai (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿ÐµÑÐµÐ½ÐºÐ°-Ð°Ð½Ð¸Ð¼Ð°ÑÑÐ¾Ð½Ð¸ÐºÐ¾Ð²-ÑÐ¿ÐµÑÐ° (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²ÑÑÑÐµÑÐ°Ð¹ÑÐµ-ÑÐµÐ»Ð»ÐµÐ½Ð´Ð¶-Ð¾Ñ-nfactorial-ai (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾ÑÑÑÐ¿Ð¸ÑÐµ-Ð²-Ð²ÑÐ·-ÑÐ²Ð¾ÐµÐ¹-Ð¼ÐµÑÑÑ-Ð²Ð¼ÐµÑÑÐµ-Ñ-nfactorial-admissions (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ¾Ð±Ð¾ÑÑ-Ð¾ÑÐ¸ÑÐ¸Ð°Ð½ÑÑ-Ð´Ð°ÑÑÑ-Ð½ÐµÐ·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑÑ-ÑÐ²Ð¾Ð¸Ð¼-Ð¿Ð¸Ð»Ð¾ÑÐ°Ð¼ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð¿ÑÐµÑÑÐ¿ÐµÑÑ-Ð²-mrbeast-production (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð»Ð¾ÑÐ½Ð¾ÑÑÑ-ÑÐ°Ð»Ð°Ð½ÑÐ°-Ð±ÑÐµÑ-Ð¼Ð°ÑÑÑ-ÑÐ°Ð»Ð°Ð½ÑÐ° (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿ÑÐµÐ´ÑÑÐ°Ð²Ð»ÑÐµÐ¼-nfactorial-research (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¼Ð°ÑÐº-Ð°Ð½Ð´ÑÐ¸ÑÑÐµÐ½-ÑÑÐ¸Ð²-Ð´Ð¶Ð¾Ð±Ñ-Ð¸-Ð¼Ð¸Ð»ÑÐµ-ceo (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¸ÑÑÐ¾ÑÐ¸Ñ-flip-kz-ÐºÐ°Ðº-Ð¿Ð¾ÑÑÑÐ¾Ð¸ÑÑ-Ð¼Ð¸Ð»Ð»Ð¸Ð°ÑÐ´Ð½ÑÐ¹-ÑÑÐ°ÑÑÐ°Ð¿-Ð¸Ð·-ÐºÐ°ÑÐ°Ð³Ð°Ð½Ð´Ñ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¼Ð¾Ðµ-10-Ð¼Ð¸Ð½ÑÑÐ½Ð¾Ðµ-Ð²ÑÑÑÑÐ¿Ð»ÐµÐ½Ð¸Ðµ-Ð½Ð°-ÑÐµÐ¼Ñ-ÑÐ°Ð¼Ð¾Ðµ-Ð±Ð¾Ð»ÑÑÐ¾Ðµ-Ð¾ÑÐºÑÑÑÐ¸Ðµ-ÑÐµÐ½Ð½Ð¾ÑÑÐ¸-Ð²-Ð¸ÑÑÐ¾ÑÐ¸Ð¸-ÑÐµÐ»Ð¾Ð²ÐµÑÐµÑÑÐ²Ð°-Ñ-central-eurasian-venture-forum-2024-Ð²ÑÐ»Ð¾Ð¶Ð¸Ð»Ð¸-Ð²-youtube (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾Ð»ÑÑÐ¸Ð»-Ð¾Ð³ÑÐ¾Ð¼Ð½Ð¾Ðµ-ÑÐ´Ð¾Ð²Ð¾Ð»ÑÑÑÐ²Ð¸Ðµ-Ð¾Ñ-ÑÑÐ°ÑÑÐ¸Ñ-Ð²-Ð¿Ð¾Ð´ÐºÐ°ÑÑÐµ-vision-Ð°ÑÐ¼Ð°Ð½Ð°-ÑÑÑÐ¿Ð¾Ð²Ð° (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð·Ð°-Ð¿Ð°ÑÑ-Ð½Ð¾ÑÐµÐ¹-Ð´Ð¾-neurips-Ð´ÐµÐ´Ð»Ð°Ð¹Ð½Ð°-uszkoreit-Ð²ÑÐ¿Ð¾Ð¼Ð½Ð¸Ð»-ÑÑÐ¾-Ð´Ð»Ñ-ÑÑÐ°ÑÑÐ¸-Ð½ÑÐ¶Ð½Ð¾-Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾ÑÐ»Ðµ-6-Ð¼ÐµÑÑÑÐµÐ²-Ð¸Ð½ÑÐµÐ½ÑÐ¸Ð²Ð½ÑÑ-ÑÑÐµÐ¼Ð¾Ðº-Ð¼Ð¾Ð½ÑÐ°Ð¶Ð°-Ð¸-Ð±Ð¾Ð»ÑÑÐ¾Ð³Ð¾-ÐºÐ¾Ð»Ð¸ÑÐµÑÑÐ²Ð°-Ð¸ÑÐµÑÐ°ÑÐ¸Ð¹-Ð½Ð°Ñ-Ð´Ð¾ÐºÑÐ¼ÐµÐ½ÑÐ°Ð»ÑÐ½ÑÐ¹-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÐºÐ¸-Ð²-ÐºÑÐµÐ¼Ð½Ð¸ÐµÐ²Ð¾Ð¹-Ð´Ð¾Ð»Ð¸Ð½Ðµ-Ð³Ð¾ÑÐ¾Ð² (from https://www.nfactorial.school/blog/all)
+
+15:21:15	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð³Ð¾ÑÑÑ-70-Ð³Ð¾-ÑÐ¿Ð¸Ð·Ð¾Ð´Ð°-nfactorial-podcast-bagdat-mussin-Ð¼Ð¸Ð½Ð¸ÑÑÑ-ÑÐ¸ÑÑÐ¾Ð²Ð¾Ð³Ð¾-ÑÐ°Ð·Ð²Ð¸ÑÐ¸Ñ-Ð¸Ð½Ð½Ð¾Ð²Ð°ÑÐ¸Ð¹-Ð¸-Ð°ÑÑÐ¾ÐºÐ¾ÑÐ¼Ð¸ÑÐµÑÐºÐ¾Ð¹-Ð¿ÑÐ¾Ð¼ÑÑÐ»ÐµÐ½Ð½Ð¾ÑÑÐ¸ (from https://www.nfactorial.school/blog/all)
+
+15:21:17	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð·Ð°Ð¿Ð°Ð´-ÑÐºÐ°ÑÑÐ²Ð°ÐµÑÑÑ-Ð²-ÑÐ¾ÑÐ¸Ð°Ð»Ð¸Ð·Ð¼-Ð±ÐµÐ´Ð½Ð¾ÑÑÑ (from https://www.nfactorial.school/blog/all)
+
+15:21:19	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²-Ð´Ð°Ð»ÐµÐºÐ¾Ð¼-2012Ð³-Ð¼Ð¾Ð¹-Ð°Ð¼ÐµÑÐ¸ÐºÐ°Ð½ÑÐºÐ¸Ð¹-ÐºÐ¾Ð»Ð»ÐµÐ³Ð°-Ð´Ð¶Ð¾ÑÐ´Ð°Ð½-Ð»Ð¸-Ð²-Ð¾Ð´Ð¸Ð½-Ð¸Ð·-Ð²ÐµÑÐµÑÐ¾Ð²-Ð¿Ð¾ÑÐ»Ðµ-ÑÐ°Ð±Ð¾ÑÑ-ÑÐ»ÑÑÐ°Ð¹Ð½Ð¾-Ð²ÑÐ¿Ð¾Ð¼Ð½Ð¸Ð»-ÑÑÐ¾-Ñ-Ð½Ð¸Ð¼-Ð½Ð°-Ð±Ð°ÐºÐ°Ð»Ð°Ð²ÑÐ¸Ð°ÑÐµ-ÑÑÐ¸Ð»ÑÑ-Ð¿Ð°ÑÐµÐ½Ñ-Ñ-ÑÐ°Ð¼Ð¸Ð»Ð¸ÐµÐ¹-Ð½Ð°-Ð¾Ð² (from https://www.nfactorial.school/blog/all)
+
+15:21:19	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð´Ð¾-ÑÐ¸Ñ-Ð¿Ð¾ÑÐ°Ð¶Ð°ÑÑÑ-ÐºÐ°Ð»Ð¸Ð±ÑÐ¾Ð¼-ÑÐ°ÑÐ½Ð´ÐµÑÐ¾Ð²-ÑÐ°Ð¼Ð¾Ð³Ð¾-Ð¿ÐµÑÐ²Ð¾Ð³Ð¾-Ð¿Ð¾ÑÐ¾ÐºÐ°-y-combinator-Ð»ÐµÑÐ¾Ð¼-2005Ð³ (from https://www.nfactorial.school/blog/all)
+
+15:21:19	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð´ÐµÐ»Ð°ÑÑ-Ð¿ÑÐ¾Ð´Ð°Ð¶Ð¸-Ð¸-Ð¿ÑÐ¸Ð²Ð»ÐµÐºÐ°ÑÑ-Ð¸Ð½Ð²ÐµÑÑÐ¸ÑÐ¸Ð¸-Ð²-ÐºÑÐµÐ¼Ð½Ð¸ÐµÐ²Ð¾Ð¹-Ð´Ð¾Ð»Ð¸Ð½Ðµ (from https://www.nfactorial.school/blog/all)
+
+15:21:19	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð²ÑÐ±ÑÐ°ÑÑ-Ð¼ÐµÐ¶Ð´Ñ-ÑÐµÐ¼-ÑÑÐ¾-Ð½ÑÐ°Ð²Ð¸ÑÑÑ-Ð°ÑÐ´Ð¸ÑÐ¾ÑÐ¸Ð¸-Ð¸-ÑÐµÐ¼-ÑÑÐ¾-Ð½ÑÐ°Ð²Ð¸ÑÑÑ-Ð²Ð°Ð¼ (from https://www.nfactorial.school/blog/all)
+
+15:21:50	Error: 	"Bad Request" (400) at link https://www.nfactorial.school/blog3/Ð²-Ð½Ð°ÑÐ°Ð»Ðµ-ÑÑÐ¾Ð³Ð¾-Ð³Ð¾Ð´Ð°-(Ð°-Ð¸Ð¼ÐµÐ½Ð½Ð¾-2-Ð¼Ð°ÑÑÐ°)-ÐºÐ¾Ð³Ð´Ð°-ÑÐ¾Ð½Ð´Ð¾Ð²ÑÐ¹-ÑÑÐ½Ð¾Ðº-ÑÐ¸Ð»ÑÐ½Ð¾-ÑÐ´Ð°ÑÐ¸Ð»-Ð¿Ð¾-Ð¾ÑÐµÐ½ÐºÐµ-google-Ð½Ðµ-Ð²ÐµÑÑ-Ð²-Ð¸Ñ-Ð¸Ð¸-ÑÑÑÐ°ÑÐµÐ³Ð¸Ñ-pershing-square-holdings-ÑÐ¾Ð»Ð´Ð¸Ð½Ð³-ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ-Ð²Ð¾Ð·Ð³Ð»Ð°Ð²Ð»ÑÐµÐ¼Ð°Ñ-Ð»ÐµÐ³ÐµÐ½Ð´Ð°ÑÐ½ÑÐ¼-Ð±Ð¸Ð»Ð»Ð¾Ð¼-ÑÐºÐ¼Ð°Ð½Ð¾Ð¼-Ð¿Ð¾ÑÐµÐ»-Ð½Ð°Ð¿ÐµÑÐµÐºÐ¾Ñ-ÑÐ¾Ð»Ð¿Ðµ-Ð¸-ÐºÑÐ¿Ð¸Ð»-Ð±Ð¾Ð»ÑÑÑÑ-Ð¿Ð¾Ð·Ð¸ÑÐ¸Ñ-Ð²-Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð¼-Ð³Ð¸Ð³Ð°Ð½ÑÐµ (from https://www.nfactorial.school/blog/all)
+
+15:21:54	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¸ÑÐ¾Ð³Ð¸-Ð»ÐµÑÐ°-2023Ð³-ÑÐ¾Ð·Ð´Ð°Ð»Ð¸-100-Ð¸Ð¸-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹-Ð¸-100-Ð¸Ð¸-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¾Ð² (from https://www.nfactorial.school/blog/all)
+
+15:21:58	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ-shopify-ÑÐ´Ð°Ð»Ð¸Ð»Ð°-12-000-ÑÐ°Ð±Ð¾ÑÐ¸Ñ-ÑÐ¾Ð²ÐµÑÐ°Ð½Ð¸Ð¹-Ð²-ÑÑÐ¾Ð¼-Ð³Ð¾Ð´Ñ (from https://www.nfactorial.school/blog/all)
+
+15:21:58	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ¾-Ñ-ÐºÐ°ÐºÐ¾Ð¹-ÑÑÐ°ÑÐµÐ»ÑÐ½Ð¾ÑÑÑÑ-Ð¸-Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸ÐµÐ¼-Ðº-Ð´ÐµÑÐ°Ð»ÑÐ¼-sanjar-madi-Ð³Ð¾ÑÐ¾Ð²Ð¸ÑÑÑ-Ðº-ÐºÐ°ÑÑÐ¸Ð½Ð³Ð°Ð¼-Ð¿ÑÐµÐ²Ð¾ÑÑÐ¾Ð´Ð½Ð¾-Ð´ÐµÐ¼Ð¾Ð½ÑÑÑÐ¸ÑÑÐµÑ-ÑÑÐ¾-Ð´Ð»Ñ-ÑÑÐ¿ÐµÑÐ°-Ð²-Ð»ÑÐ±Ð¾Ð¹-ÐºÐ°ÑÑÐµÑÐµ-Ð¾Ð´Ð½Ð¾Ð³Ð¾-ÑÐ°Ð»Ð°Ð½ÑÐ°-ÑÐ²Ð½Ð¾-Ð½ÐµÐ´Ð¾ÑÑÐ°ÑÐ¾ÑÐ½Ð¾ (from https://www.nfactorial.school/blog/all)
+
+15:22:07	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾Ð³Ð¾Ð²Ð¾ÑÐ¸Ð»Ð¸-Ð¾-Ð¿ÐµÑÑÐ¿ÐµÐºÑÐ¸Ð²Ð°Ñ-junior-ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÑÐ¸ÐºÐ¾Ð²-Ð½Ð°-ÐºÐ°Ð·Ð°ÑÑÑÐ°Ð½ÑÐºÐ¾Ð¼-Ð¸Ñ-ÑÑÐ½ÐºÐµ (from https://www.nfactorial.school/blog/all)
+
+15:22:10	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/35-Ð¸Ð´ÐµÐ¹-Ð´Ð»Ñ-Ð¸Ð¸-ÑÑÐ°ÑÑÐ°Ð¿Ð¾Ð²-ÐºÐ¾ÑÐ¾ÑÑÐµ-ÑÐµÐ°Ð»Ð¸ÑÑÐ¸ÑÐ½Ð¾-ÑÐµÐ°Ð»Ð¸Ð·Ð¾Ð²Ð°ÑÑ-ÑÑÐ¸Ð¼-Ð»ÐµÑÐ¾Ð¼ (from https://www.nfactorial.school/blog/all)
+
+15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ¾ÑÐµÐ¹-Ð¾Ð¾ÑÐ°Ð½Ð¸-Ð¾Ð´Ð½Ð°-Ð¸Ð·-Ð³Ð»Ð°Ð²Ð½ÑÑ-Ð·Ð²ÐµÐ·Ð´-Ð¼Ð¸ÑÐ¾Ð²Ð¾Ð³Ð¾-Ð±ÐµÐ¹ÑÐ±Ð¾Ð»Ð° (from https://www.nfactorial.school/blog/all)
+
+15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°ÑÑÐµÑÐ°-Ð¾ÑÐ½Ð¾Ð²Ð°ÑÐµÐ»Ñ-parqour-Ð¸-smart-point-Ð°Ð¼Ð¸ÑÑÐ°Ð½Ð°-Ð¾Ð¼Ð°ÑÐ¾Ð²Ð°-Ð±Ð¾Ð»ÑÑÐµ-Ð²ÑÐµÐ³Ð¾-Ñ-Ð¼ÐµÐ½Ñ-Ð°ÑÑÐ¾ÑÐ¸Ð¸ÑÑÐµÑÑÑ-Ñ-2-Ð¿ÑÐµÐ´Ð¿ÑÐ¸Ð½Ð¸Ð¼Ð°ÑÐµÐ»ÑÐ¼Ð¸ (from https://www.nfactorial.school/blog/all)
+
+15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÑÐ²Ð¾ÑÐ¸ÑÑ-Ð¸ÑÑÐ¾ÑÐ¸Ñ-Ð·Ð°-13-Ð´Ð½ÐµÐ¹ (from https://www.nfactorial.school/blog/all)
+
+15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²Ñ-Ð½Ðµ-ÑÐ»Ð¸ÑÐºÐ¾Ð¼-ÑÑÐ°ÑÑ-ÑÑÐ¾Ð±Ñ-Ð½Ð°ÑÐ°ÑÑ-ÐºÐ°ÑÑÐµÑÑ-Ð²-Ð¸Ð¸ (from https://www.nfactorial.school/blog/all)
+
+15:22:13	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¿Ð¾Ð´Ð»Ð¾Ð²Ð¸Ð»Ð¸-eldar-akhmetgaliyev-Ð¿Ð¾ÐºÐ°-Ð¾Ð½-Ð¿ÑÐ¸ÐµÐ·Ð¶Ð°Ð»-Ð²-Ð°Ð»Ð¼Ð°ÑÑ-Ð¸Ð·-ÐºÐ°Ð»Ð¸ÑÐ¾ÑÐ½Ð¸Ð¸-Ð³Ð´Ðµ-Ð¶Ð¸Ð²ÐµÑ-Ñ-2009Ð³ (from https://www.nfactorial.school/blog/all)
+
+15:22:14	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²ÑÐµ-ÑÑÐ¾-Ð¿ÑÐ¾Ð¸Ð·Ð¾ÑÐ»Ð¾-Ñ-Ð¸ÑÐºÑÑÑÑÐ²ÐµÐ½Ð½ÑÐ¼-Ð¸Ð½ÑÐµÐ»Ð»ÐµÐºÑÐ¾Ð¼-Ð·Ð°-Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ-10-Ð»ÐµÑ (from https://www.nfactorial.school/blog/all)
+
+15:22:14	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð½Ð°-Ð¿ÑÐ¾ÑÐ»Ð¾Ð¹-Ð½ÐµÐ´ÐµÐ»Ðµ-Ñ-Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð»-Ð¾ÑÐºÑÑÑÑÑ-zoom-Ð»ÐµÐºÑÐ¸Ñ-Ð½Ð°-ÑÐµÐ¼Ñ-30-ÑÐ¿Ð¾ÑÐ¾Ð±Ð¾Ð²-Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ-chatgpt-Ð¾-ÐºÐ¾ÑÐ¾ÑÑÑ-Ð²Ñ-Ð½Ðµ-ÑÐ»ÑÑÐ°Ð»Ð¸ (from https://www.nfactorial.school/blog/all)
+
+15:22:14	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²ÑÑÐ»Ð¾-Ð²Ð¸Ð´ÐµÐ¾-Ð¼Ð¾ÐµÐ¹-Ð¾ÑÐºÑÑÑÐ¾Ð¹-Ð»ÐµÐºÑÐ¸Ð¸-Ð¿Ð¾-ÑÐµÐ¼Ðµ-ÑÐ¾Ð¿-50-Ð¸Ð¸-ÑÑÐ°ÑÑÐ°Ð¿Ð¾Ð²-Ð¾-ÐºÐ¾ÑÐ¾ÑÑÑ-Ð²Ñ-Ð½Ðµ-Ð·Ð½Ð°Ð»Ð¸-Ð²-ÑÐ°Ð¼ÐºÐ°Ñ-ÑÐµÑÐ¸Ð¸-nfactorial-curious (from https://www.nfactorial.school/blog/all)
+
+15:22:16	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð²-Ð¿ÐµÑÐ¸Ð¾Ð´-2010-2013-Ð³Ð³-Ñ-Ð·Ð°Ð¿Ð¸ÑÐ°Ð»-Ð¿Ð¾ÑÑÐ´ÐºÐ°-30-ÑÐ¿Ð¸Ð·Ð¾Ð´Ð¾Ð²-Ð¿Ð¾Ð´ÐºÐ°ÑÑÐ°-princeton-startup-tv (from https://www.nfactorial.school/blog/all)
+
+15:22:16	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð±ÑÐ»-ÑÐ°Ðº-Ð²Ð¿ÐµÑÐ°ÑÐ»ÐµÐ½-Ð¸Ð¼Ð¼ÐµÑÑÐ¸Ð²Ð½ÑÐ¼-Ð¼Ð¸ÑÐ¾Ð¼-Ð²-avatar-2-ÑÑÐ¾-Ð¿Ð¾ÑÐµÐ»-ÑÐ¸ÑÐ°ÑÑ-ÐºÐ°Ðº-ÑÑÐ¾Ñ-Ð½ÐµÐ²ÐµÑÐ¾ÑÑÐ½ÑÐ¹-ÑÐ¸Ð»ÑÐ¼-ÑÐ¾Ð·Ð´Ð°Ð²Ð°Ð»ÑÑ (from https://www.nfactorial.school/blog/all)
+
+15:22:16	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/6-Ð»ÐµÑ-Ð½Ð°Ð·Ð°Ð´-Ð¸Ð»Ð¾Ð½-Ð¼Ð°ÑÐº-Ð¾ÑÐ¿ÑÐ°Ð²Ð¸Ð»-email-ÑÐ¾ÑÑÑÐ´Ð½Ð¸ÐºÐ°Ð¼-tesla-Ð³Ð´Ðµ-Ð¿Ð¾Ð´ÐµÐ»Ð¸Ð»ÑÑ-ÑÐ²Ð¾Ð¸Ð¼Ð¸-ÑÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°ÑÐ¸ÑÐ¼Ð¸-Ð¿Ð¾-Ð¿ÑÐ¾Ð´ÑÐºÑÐ¸Ð²Ð½Ð¾ÑÑÐ¸-Ð´Ð»Ñ-Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑÐ¾Ð² (from https://www.nfactorial.school/blog/all)
+
+15:22:17	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¾-Ð½ÐµÐ»Ð¸Ð½ÐµÐ¹Ð½Ð¾ÑÑÐ¸-Ð²ÑÐµÐ¼ÐµÐ½Ð¸-ÐºÐ°Ðº-1-ÑÐ°Ñ-Ð¾ÐºÐ°Ð·Ð°Ð»ÑÑ-ÑÐµÐ½Ð½ÐµÐµ-ÑÐµÐ¼-Ð²ÑÑ-Ð¶Ð¸Ð·Ð½Ñ (from https://www.nfactorial.school/blog/all)
+
+15:22:17	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/ÐºÐ°Ðº-Ð¿Ð¸ÑÐ°ÑÑ-ÐºÐ°Ðº-Ð²-amazon (from https://www.nfactorial.school/blog/all)
+
+15:22:18	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð±ÑÐºÐ²Ð°Ð»ÑÐ½Ð¾-Ð¿ÐµÑÐµÐ´-Ð¿Ð¾Ð»ÐµÑÐ¾Ð¼-Ð²-Ð´ÐµÐ½Ð²ÐµÑ-Ð·Ð°ÑÐµÐ»-Ð²-Ð³Ð¾ÑÑÐ¸-Ðº-Ð´Ð¾ÑÑÐ¼Ñ-ÑÐ°ÑÐ¿Ð°ÐµÐ²Ñ (from https://www.nfactorial.school/blog/all)
+
+15:22:18	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog3/Ð¼ÑÑÐ»Ñ-ÐºÐ¾ÑÐ¾ÑÑÑ-Ð¼Ð½Ðµ-Ð½Ð°Ð¿Ð¾Ð¼Ð½Ð¸Ð»Ð¸-Ð½Ð°-Ð²ÑÑÐ¾Ð´Ð½ÑÑ-Ð½Ð¾-ÐºÐ¾ÑÐ¾ÑÑÑ-Ð´Ð¾Ð»Ð³Ð¾-Ð¾Ð±Ð´ÑÐ¼ÑÐ²Ð°Ð»-Ð´Ð¾-ÑÑÐ¾Ð³Ð¾ (from https://www.nfactorial.school/blog/all)
+
+15:22:25	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.nfactorial.school/blog2/9-shagov-po-optimizacii-vashego-socialnogo-kruga (from https://www.nfactorial.school/blog/all)
+
+15:22:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog2/ÐºÐ°ÐºÐ¸Ðµ-ÑÐ¾ÑÐ¼Ð°ÑÑ-Ð´ÐµÐ¹ÑÑÐ²ÑÑÑ-Ð½Ð°-ÑÑÐ½ÐºÐµ-Ð¾Ð½Ð»Ð°Ð¹Ð½-ÑÑÐ¿ÐµÑÐ¼Ð°ÑÐºÐµÑÐ¾Ð² (from https://www.nfactorial.school/blog/all)
+
+15:22:25	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.nfactorial.school/blog2/kazahstanskie-komandy-v-acm-icpc-samom-prestizhnom-chempionate-po-programmirovaniyu (from https://www.nfactorial.school/blog/all)
+
+15:23:02	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.nfactorial.school/blog2/duolingo-users-growth-in-5-years (from https://www.nfactorial.school/blog/all)
+
+15:23:06	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog2/Ð²Ð½ÑÑÑÐµÐ½Ð½ÑÑ-ÐºÑÑÐ½Ñ-Ð¿ÑÐ¸Ð½ÑÑÐ¾Ð½Ð° (from https://www.nfactorial.school/blog/all)
+
+15:23:12	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog2/ÑÑÐ°Ð´Ð¸ÑÐ¸Ð¾Ð½Ð½Ð¾-ÑÑÐ¸ÑÐ°ÐµÑÑÑ-ÑÑÐ¾-ÐºÐ¾Ð¼Ð±Ð¾-ÑÑÐ¾-Ð¿Ð»Ð¾ÑÐ¾-ÐºÐ°Ðº-Ð´Ð»Ñ-ÐºÐ»Ð¸ÐµÐ½ÑÐ°-ÑÐ°Ðº-Ð¸-Ð´Ð»Ñ-Ð¿Ð¾ÑÑÐ°Ð²ÑÐ¸ÐºÐ¾Ð² (from https://www.nfactorial.school/blog/all)
+
+15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/moneyball-Ð¿Ð¾Ð½ÑÑÑ-Ð»ÑÐ´ÐµÐ¹-ÑÑÐ¾Ð±Ñ-ÑÐ¾Ð·Ð´Ð°ÑÑ-ÑÐ¸Ð»ÑÐ½ÑÑ-ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ (from https://www.nfactorial.school/blog/all)
+
+15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/7-ÑÐ»ÑÑÐ°Ð¹Ð½ÑÑ-ÑÑÐ¾ÐºÐ¾Ð²-Ð¾-Ð¶Ð¸Ð·Ð½Ð¸ (from https://www.nfactorial.school/blog/all)
+
+15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/Ð¿ÑÐ¾ÑÑÑÐ¼Ð¸-ÑÐ»Ð¾Ð²Ð°Ð¼Ð¸-Ð¿Ð¾ÑÐµÐ¼Ñ-bitcoin-Ð¼Ð¾Ð¶ÐµÑ-ÑÐ°Ð·Ð´ÐµÐ»Ð¸ÑÑÑÑ-Ð½Ð°-2-Ð²Ð°Ð»ÑÑÑ (from https://www.nfactorial.school/blog/all)
+
+15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/ÐºÐ¾Ð½ÐµÑÐ½Ð¾-Ð»Ð¸-ÑÐ¸ÑÐ»Ð¾-Ð±Ð¸ÑÐºÐ¾Ð¸Ð½Ð¾Ð²-Ð¸-ÑÐºÐ¾Ð»ÑÐºÐ¾-Ð¸Ñ-Ð²ÑÐµÐ³Ð¾ (from https://www.nfactorial.school/blog/all)
+
+15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/ÐºÐ°Ðº-Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÑ-ÐºÐ°Ð»ÐµÐ½Ð´Ð°ÑÑ-Ð´Ð»Ñ-Ð¼Ð°ÐºÑÐ¸Ð¼Ð¸Ð·Ð°ÑÐ¸Ð¸-ÑÑÑÐµÐºÑÐ¸Ð²Ð½Ð¾ÑÑÐ¸ (from https://www.nfactorial.school/blog/all)
+
+15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/Ð¼Ð¾Ð¸-Ð»ÑÐ±Ð¸Ð¼ÑÐµ-ÐºÐ½Ð¸Ð³Ð¸ (from https://www.nfactorial.school/blog/all)
+
+15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/21-ÑÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°ÑÐ¸Ñ-Ð´Ð»Ñ-ÑÐ¾Ð·Ð´Ð°ÑÐµÐ»ÐµÐ¹-Ð¼Ð¾Ð±Ð¸Ð»ÑÐ½ÑÑ-Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ (from https://www.nfactorial.school/blog/all)
+
+15:23:25	Error: 	"Not Found" (404) at link https://www.nfactorial.school/blog1/Ð³ÐµÐ¾Ð³ÑÐ°ÑÐ¸Ñ-Ð³ÐµÐ½Ð¸ÐµÐ²-Ð²-Ð¿Ð¾Ð¸ÑÐºÐµ-ÑÐ°Ð¼ÑÑ-Ð¸Ð½Ð½Ð¾Ð²Ð°ÑÐ¸Ð¾Ð½Ð½ÑÑ-Ð¼ÐµÑÑ-Ð½Ð°-Ð·ÐµÐ¼Ð»Ðµ (from https://www.nfactorial.school/blog/all)
+
+15:23:57	Error: 	"Not Found" (404) at link https://www.nfactorial.school/courses/nfactorial-algorithms-data-structures (from https://www.nfactorial.school/blog2/stripe-samyy-goryachiy-amerikanskiy-startap)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 15 seconds : 1121 links scanned, 1010 files written (380750500 bytes overall) [294528704 bytes received at 400719 bytes/sec], 139624282 bytes transferred using HTTP compression in 391 files, ratio 11%, 2.7 requests per connection
+
+(103 errors, 4 warnings, 0 messages)
+
